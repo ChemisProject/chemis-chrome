@@ -1,4 +1,4 @@
-Chemis Desktop
+Chemis Chrome App
 ==========
 
 <img src="http://cs406224.vk.me/v406224475/a9bd/pAqJY4W_Wp8.jpg"><br>

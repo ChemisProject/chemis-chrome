@@ -1,0 +1,17 @@
+{
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__"
+  "version": "0.1.5",
+  "manifest_version": 2,
+  "minimum_chrome_version": "37.0.0.0",
+  "offline_enabled": true,
+  "app": {
+    "background": {
+      "scripts":["background_main.js"]
+     }
+   },
+   "default_locale": "en",
+   "icons": {
+      "128": "img/128.png"
+    }
+}
