@@ -1,7 +1,5 @@
-<img width="100" src="https://s3.amazonaws.com/chemis/chemis-logo-no-bg.png"><br>
-Chemis Chrome
-=============
+# Deprecated
 
-This is the Chemis version for Chrome. It can be installed through the link https://chrome.google.com/webstore/detail/chemis/bdafkhikebcpledhonbhfhajfeahmhhi.<br>
+This project is discontinued! We have no intentions to keep supporting Chrome Apps due to [this official announcement](https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html) encouraging developers to migrate their Chrome apps to the web.
 
-If you have any questions or suggestions, contact us at chemisproject@googlegroups.com
+All future changes to Chemis Q Calc will be commited to [q_calc_webapp](https://github.com/ChemisTechlabs/q_calc_webapp) repository.
